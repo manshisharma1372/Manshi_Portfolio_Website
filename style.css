@@ -102,10 +102,10 @@ a{
 }
 
 .hero-section-left{
-    display: flex;
+    display:flex;
     flex-direction: column;
     justify-content: center;
-    gap: 2rem;
+    gap:2rem;
 
 }
 
